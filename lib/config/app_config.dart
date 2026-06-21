@@ -1,5 +1,5 @@
 class AppConfig {
-  static const String appName = 'Upgrade Starter Kit';
+  static const String appName = 'Upgrade';
   static const String appVersion = '1.0.0';
   static const String baseUrl = 'https://api.example.com';
 

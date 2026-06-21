@@ -81,8 +81,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
 
   void _showAboutDialog() {
     _showInfoDialog(
-      title: 'About Starter Kit',
-      message: 'Starter Kit 1.0.0\nA beautiful flutter boilerplate.',
+      title: 'About Upgrade',
+      message: 'Upgrade 1.0.0\nA beautiful flutter boilerplate.',
     );
   }
 

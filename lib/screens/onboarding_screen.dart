@@ -21,7 +21,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     _OnboardingPage(
       icon: CupertinoIcons.sparkles,
       title: 'Welcome to Upgrade',
-      subtitle: 'A beautifully crafted Flutter starter kit\nto build amazing apps faster.',
+      subtitle: 'A beautifully crafted Flutter app\nto build amazing apps faster.',
     ),
     _OnboardingPage(
       icon: CupertinoIcons.paintbrush,

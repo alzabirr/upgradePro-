@@ -50,7 +50,7 @@ class SnapApp extends StatelessWidget {
         valueListenable: darkModeNotifier,
         builder: (context, isDark, child) {
           return MaterialApp(
-            title: 'Upgrade Starter Kit',
+            title: 'Upgrade',
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
               brightness: isDark ? Brightness.dark : Brightness.light,

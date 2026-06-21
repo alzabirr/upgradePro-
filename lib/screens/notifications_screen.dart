@@ -43,7 +43,7 @@ class NotificationsScreen extends StatelessWidget {
               _NotificationCard(
                 icon: CupertinoIcons.sparkles,
                 title: 'Welcome to Upgrade',
-                subtitle: 'Your starter kit is ready. Start building amazing apps!',
+                subtitle: 'Your app is ready. Start building amazing apps!',
                 time: 'Just now',
                 isUnread: true,
               ),

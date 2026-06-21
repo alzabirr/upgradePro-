@@ -56,7 +56,7 @@ class AboutScreen extends StatelessWidget {
               const SizedBox(height: 20),
               Center(
                 child: Text(
-                  'Upgrade Starter Kit',
+                  'Upgrade',
                   style: headingStyle(fontSize: 24, fontWeight: FontWeight.w700),
                 ),
               ),
@@ -70,7 +70,7 @@ class AboutScreen extends StatelessWidget {
               const SizedBox(height: 32),
               _InfoCard(
                 title: 'About this app',
-                body: 'Upgrade Starter Kit is a beautifully crafted Flutter boilerplate with glassmorphic UI, dark mode, offline storage, and clean architecture — ready for you to build amazing apps.',
+                body: 'Upgrade is a beautifully crafted Flutter boilerplate with glassmorphic UI, dark mode, offline storage, and clean architecture — ready for you to build amazing apps.',
               ),
               const SizedBox(height: 14),
               _InfoCard(

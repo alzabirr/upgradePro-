@@ -37,7 +37,7 @@ class NotificationService extends ChangeNotifier {
       AppNotification(
         id: '1',
         title: 'Welcome!',
-        body: 'Welcome to Upgrade Starter Kit. Start building amazing apps.',
+        body: 'Welcome to Upgrade. Start building amazing apps.',
       ),
       AppNotification(
         id: '2',
