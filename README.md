@@ -2,21 +2,20 @@
 
 A modern, production-ready Flutter Starter Kit designed to accelerate app development with clean architecture, reusable components, and scalable structure.
 
+repo link : https://github.com/alzabirr/upgradePro-
 ---
 
 ## 📱 App Preview
 
 <p align="center">
-  <img src="https://github.com/alzabirr/upgradePro-/blob/main/assets/screenshots/home.jpeg" width="30%" />
-  <img src="https://github.com/alzabirr/upgradePro-/blob/main/assets/screenshots/explore.jpeg" width="30%" />
-  <img src="https://github.com/alzabirr/upgradePro-/blob/main/assets/screenshots/settings.jpeg" width="30%" />
-  <img src="https://github.com/alzabirr/upgradePro-/blob/main/assets/screenshots/newItem.jpeg" width="30%" />  
-  <img src="https://github.com/alzabirr/upgradePro-/blob/main/assets/screenshots/profile.jpeg" width="30%" />  
-  <img src="https://github.com/alzabirr/upgradePro-/blob/main/assets/screenshots/darkHome.jpeg" width="30%" />  
-  <img src="https://github.com/alzabirr/upgradePro-/blob/main/assets/screenshots/darkExplore.jpeg" width="30%" />  
-</p>
-
----
+  <img src="https://raw.githubusercontent.com/alzabirr/upgradePro-/main/assets/screenshots/home.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/alzabirr/upgradePro-/main/assets/screenshots/explore.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/alzabirr/upgradePro-/main/assets/screenshots/settings.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/alzabirr/upgradePro-/main/assets/screenshots/newItem.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/alzabirr/upgradePro-/main/assets/screenshots/profile.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/alzabirr/upgradePro-/main/assets/screenshots/darkHome.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/alzabirr/upgradePro-/main/assets/screenshots/darkExplore.jpeg" width="30%" />
+</p>---
 
 ## 🏗 Architecture
 
@@ -66,4 +65,4 @@ This project follows a **feature-based layered architecture** for scalability an
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/USERNAME/flutter-starter-kit.git my_app
+git clone https://github.com/alzabirr/upgradePro-.git
